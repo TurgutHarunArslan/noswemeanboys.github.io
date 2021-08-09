@@ -1,7 +1,9 @@
 body{
-background-color: royalblue;
+background-image: url(arkaplan.jpg);
 margin: 0px;
 padding: 0px;
+background-repeat: no-repeat;
+background-size: 1500px 800px;
 }
 
 .video1{
